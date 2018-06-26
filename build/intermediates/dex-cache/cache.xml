@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6c24ff1375f24f90b248e8078fac2f8948ed6721">
+        <dex dex="D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c10f46a1e67b447e3d4eae71b5b172c0b620f33a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bde3441ebb7ff706bdd439f3a61841da27fd3660">
+        <dex dex="D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_14d9119ea66be2c1be722318d18c71c83fed4c17\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Sun Feb 19 21:27:16 EET 2017
+base.0=D\:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\android-arithmetic-game-master2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c10f46a1e67b447e3d4eae71b5b172c0b620f33a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\android-arithmetic-game-master2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_14d9119ea66be2c1be722318d18c71c83fed4c17\\classes.dex
+base.1=D\:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\android-arithmetic-game-master2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_14d9119ea66be2c1be722318d18c71c83fed4c17
+file.0=D\:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\android-arithmetic-game-master2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c10f46a1e67b447e3d4eae71b5b172c0b620f33a\\classes.dex

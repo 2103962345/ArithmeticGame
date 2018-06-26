@@ -1,0 +1,66 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:3:2-36
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:7:2-8:32
+	android:targetSdkVersion
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:8:3-29
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:10:2-33:16
+	android:label
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:14:3-35
+	android:allowBackup
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:11:3-29
+	android:icon
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:12:2-31
+	android:theme
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:13:3-71
+activity#com.example.youdothemath.MainActivity
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:16:3-24:14
+	android:label
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:18:4-36
+	android:name
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:17:4-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:19:4-23:20
+action#android.intent.action.MAIN
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:20:5-57
+	android:name
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:20:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:22:15-62
+activity#com.example.youdothemath.PlayGame
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:25:3-28:14
+	android:configChanges
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:27:4-65
+	android:name
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:26:4-28
+activity#com.example.youdothemath.HowToPlay
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:29:3-30:14
+	android:name
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:29:13-38
+activity#com.example.youdothemath.HighScores
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:31:3-32:14
+	android:name
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\src\main\AndroidManifest.xml:31:13-39

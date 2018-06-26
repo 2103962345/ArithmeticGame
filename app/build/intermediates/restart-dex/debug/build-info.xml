@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="100745162548192"
+    token="6726071032322136536"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="213" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="312" />
+    <task
+        name="verifier"
+        duration="56" />
+
+    <artifact
+        location="D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="100745162548192"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\University\Programmirovanie_mobilnykh_sistem_Internet\android-arithmetic-game-master2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

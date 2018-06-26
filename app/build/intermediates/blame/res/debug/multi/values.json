@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\android-arithmetic-game-master2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\android-arithmetic-game-master2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 52,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\android-arithmetic-game-master2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 152,
+                        "endColumn": 49,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 355,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\android-arithmetic-game-master2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 202,
+                        "endColumn": 352,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 50,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\android-arithmetic-game-master2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 104,
+                        "endColumn": 47,
+                        "endOffset": 150
+                    }
+                }
+            }
+        ]
+    }
+]
